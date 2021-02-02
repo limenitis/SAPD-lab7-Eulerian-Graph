@@ -59,11 +59,11 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Eulerian_path)
 
-> Eulerian graph — a graph containing an Euler cycle.
+> Eulerian graph — a graph containing an Eulerian cycle.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Eulerian_path)
 
-Signs that the Euler graph:
+Signs that it is the Eulerian graph:
 * The count of odd vertices in the graph is less than 3
 * The count of connected components is 1
 
