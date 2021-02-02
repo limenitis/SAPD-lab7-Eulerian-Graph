@@ -17,12 +17,15 @@
 ## О Эйлеровых циклах
 
 > Эйлеров путь в графе — это путь, проходящий по всем рёбрам графа и притом только по одному разу. 
+>
 > [Wikipedia](https://ru.wikipedia.org/wiki/%D0%AD%D0%B9%D0%BB%D0%B5%D1%80%D0%BE%D0%B2_%D1%86%D0%B8%D0%BA%D0%BB)
 
 > Эйлеров цикл — эйлеров путь, являющийся циклом, то есть замкнутый путь, проходящий через каждое ребро графа ровно по одному разу. 
+>
 > [Wikipedia](https://ru.wikipedia.org/wiki/%D0%AD%D0%B9%D0%BB%D0%B5%D1%80%D0%BE%D0%B2_%D1%86%D0%B8%D0%BA%D0%BB)
 
 > Эйлеров граф — граф, содержащий эйлеров цикл. 
+>
 > [Wikipedia](https://ru.wikipedia.org/wiki/%D0%AD%D0%B9%D0%BB%D0%B5%D1%80%D0%BE%D0%B2_%D1%86%D0%B8%D0%BA%D0%BB)
 
 Признаки, что граф эйлеров:
@@ -49,12 +52,15 @@
 ## About Eulerian cycles
 
 > An Eulerian path in a graph is a path that passes through all the edges of the graph and only once.
+>
 > [Wikipedia](https://en.wikipedia.org/wiki/Eulerian_path)
 
 > Eulerian cycle — an Eulerian path that is a cycle, that is, a closed path that passes through each edge of the graph exactly once.
+>
 > [Wikipedia](https://en.wikipedia.org/wiki/Eulerian_path)
 
 > Eulerian graph — a graph containing an Euler cycle.
+>
 > [Wikipedia](https://en.wikipedia.org/wiki/Eulerian_path)
 
 Signs that the Euler graph:
